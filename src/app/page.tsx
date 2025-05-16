@@ -322,7 +322,7 @@ export default function GpaCalculator() {
             
             {currentGPA && (
               <div className="flex items-center justify-between p-3 bg-white rounded mb-2 shadow-sm">
-                <span className="text-gray-700">This semester's GPA:</span>
+                <span className="text-gray-700">This semester&apos;s GPA:</span>
                 <span className="text-lg font-bold text-blue-600">{currentGPA}</span>
               </div>
             )}
